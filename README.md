@@ -7,7 +7,7 @@
 <div align="center">
 
 [![Stars](https://img.shields.io/github/stars/BattleCh1cken/oxocarbon-papirus-icons?color=%23b66467&style=for-the-badge)](https://github.com/nyoom-engineering/oxocarbon/stargazers)
-[![GitHub Issues](https://img.shields.io/github/issues/nyoom-engineering/oxocarbon-papirus-icons?color=%238c977d&style=for-the-badge)](https://github.com/nyoom-engineering/oxocarbon/issues)
+[![GitHub Issues](https://img.shields.io/github/issues/BattleCh1cken/oxocarbon-papirus-icons?color=%238c977d&style=for-the-badge)](https://github.com/nyoom-engineering/oxocarbon/issues)
 [![License](https://img.shields.io/github/license/nyoom-engineering/oxocarbon-papirus-icons?color=%238da3b9&style=for-the-badge)](https://mit-license.org/)
 ![Discord Server](https://img.shields.io/discord/1050624267592663050?color=738adb&label=Discord&Color=white&style=for-the-badge)
 
