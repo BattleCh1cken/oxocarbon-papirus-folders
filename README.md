@@ -18,11 +18,11 @@ A port of of the Papirus Icon Theme to the Oxocarbon color pallete.
 
 ## Showcase
 
-![pink](assets/pink)
+![pink](assets/pink.png)
 
-![purple](assets/purple)
+![purple](assets/purple.png)
 
-![blue](assets/blue)
+![blue](assets/blue.png)
 
 ## Install
 
