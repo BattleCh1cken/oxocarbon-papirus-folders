@@ -13,28 +13,41 @@
 
 </div>
 
-Oxocarbon is a set of community ports of IBM's carbon color palette and design philosophy to various applications and tooling.
+A port of of the Papirus Icon Theme to the Oxocarbon color pallete. 
+
 
 ## Showcase
 
-<screenshots>
+![pink](assets/pink)
+
+![purple](assets/purple)
+
+![blue](assets/blue)
 
 ## Install
 
-- Installation
+1. Make sure You have [Papirus Icon Theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) installed
+2. Clone this repository and change to cloned directory:
+   ```
+   git clone https://github.com/BattleCh1cken/oxocarbon-papirus-folders.git
+   cd oxocarbon-papirus-folders
+   ```
+3. Copy content of `src` to `/usr/share/icons/Papirus/`:
+   ```
+   sudo cp -r src/* /usr/share/icons/Papirus
+   ```
+4. Use modified `papirus-folders` script to set colors of folders. For example to set oxocarbon-pink folders for Papirus-Dark theme:
+   ```
+   ./papirus-folders -C oxocarbon-pink --theme Papirus-Dark
+   ```
+5. To check all available colors:
 
-## Features (optional)
+   ```
+   ./papirus-folders -l
+   ```
 
-- Special features and UI tweaks
 
-### Plugin Support (optional)
-
-- What plugins does it support
-
-## FAQ (optional)
-
-- Q: **_"Where can I find the doc?"_**\
-  A: Run `:help theme`
+6. Visit [Papirus-folders](https://github.com/PapirusDevelopmentTeam/papirus-folders) to learn more about this script
 
 ## License
 
