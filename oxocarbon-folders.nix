@@ -20,6 +20,6 @@ stdenv.mkDerivation rec {
     cp -r ${papirus-icon-theme}/share/icons/Papirus $out/share/icons
     chmod -R u+rw $out
     cp -r src/* $out/share/icons/Papirus
-    bash ./papirus-folders -C oxocarbon-blue --theme $out/share/icons/Papirus -o
+    bash ./papirus-folders -C oxocarbon-purple --theme $out/share/icons/Papirus -o
   '';
 }
